@@ -31,6 +31,7 @@ Figures 5, 6, 7 (above)
 
 Pie chart figures 5, 6, and 7 directly above, show percentages of: Total Rides by city type, Total Drivers by city type and Total Fares by city type.
 
+## Initial Summary:
 In all of the data analyzed, it is clear that rural users are paying far highter fare rates than urban users - but that urban users are so much higher in number and in frequence of use, that the majority of the fares are coming from urban users.
 
 <!---img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig2.png" width="300" height="180" alt ="graphic: PyBer Welcome">
@@ -51,8 +52,9 @@ Figure 8. Summary dataset with totals by city type.
 
 <img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/FinalDataset.png" width="250" height="475" alt ="graphic: Ride data from January-April, 2019" align="right">
 
-Figures 9 & 10: Ride data from January-April, 2019
+The final dataset, shown in the figure on the right (unformatted), contains the sum of the total fares per week throughout the months of January through April, 2019 - again by city type.  By summing the fares, instead of looking at the individual averages, we see just how much more the frequent, smaller-fared trips of urban users add up, and surpass the higher fares of all other city types. 
 
+Figures 9 & 10: Ride data from January-April, 2019
 
 
 ![alt](resources/PyBer_fare_summary.png)

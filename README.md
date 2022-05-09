@@ -41,4 +41,8 @@ Box and whisker charting and pie options were also visualized:
 
 ---
 # Recommendations:
+Data analysis clearly shows the disparity between city types.  Rural areas, most likely travelling farther distances, are seeing very high average fare prices, while city trips are likely short and therefore less expensive.  Some new business model must be developed if PyBer wishes to gain favorable rural use. Perhaps a membership pricing discount (for rural users wishing to travel to the city on a regular basis) could be put in place for all PyBer users, that would help to spread the cost around - or - PyBer might add an option to the app to have rideshare groups, where users could regularly travel with others in their area, sharing the cost between them, by planning trips ahead of time. Another option might be to add a feature to the app to "donate" a ride (or portion of a ride) to users - city, suburban, or rural - who may not be using PyBer due to financial hardship. Rider profiles could then apply for sliding scale rates and the donations could offset costs for those in neeed.
+
+If PyBer would like to serve all of these areas with a favorable reputation and continued growth and prosperity, surely some of these and other options could be proposed in focus groups or even through a survey on the app.  Possbily people in the PyBer community might also have feedback and suggestions.
+
 

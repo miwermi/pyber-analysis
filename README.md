@@ -48,20 +48,20 @@ After the initial analysis was complete, additional requests were made for summa
 
 ![alt](resources/FinalSummary.png)
 <br />
-Figure 8. Summary dataset with totals by city type.
-
+Figure 8 (above): Summary dataset with totals by city type.
+<br />
 <img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/FinalDataset.png" width="250" height="475" alt ="graphic: Ride data from January-April, 2019" align="left" style="padding-right: 30px;">
-<br /><br />
-<span style="width: 400px;">The final dataset, shown in the figure on the left (unformatted), contains the sum of the total fares per week throughout the months of January through April, 2019 - again by city type.  By summing the fares, instead of looking at the individual averages, we see just how much the frequent, smaller-fared trips of urban users add up to larger profits, and far surpass the higher fares of all other city types. 
+<br /><br /><br /><br /><br />
+<p style="width: 400px;">The final dataset, shown in the figure on the left (unformatted), contains the sum of the total fares per week throughout the months of January through April, 2019 - again by city type.  By summing the fares, instead of looking at the individual averages, we see just how much the frequent, smaller-fared trips of urban users add up to larger profits, and far surpass the higher fares of all other city types. 
 <br />
 This dataset was used to create the line graph below showing those same fares - by city type - over time.
-<br /><br /><br />
-Figures 9 & 10: Ride data from January-April, 2019. </span>
+<br /><br /><br /><br /><br />
+Figures 9 & 10: Ride data from January-April, 2019. </p>
 <br />
 
 ![alt](resources/PyBer_fare_summary.png)
 <!---br />
-Figure 9. Line chart of fare prices for all city types between January through April, 2019.--->
+Figure 9: Line chart of fare prices for all city types between January through April, 2019.--->
 
 ---
 # Recommendations:

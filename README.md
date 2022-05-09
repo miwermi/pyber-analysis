@@ -24,7 +24,7 @@ Figure 1: Scatter plot illustrating type of fare, plotted with size relevance on
 Box and whisker charting and pie options were also visualized:
 ![alt](resources/Box+Wiskers.png)
 
-![alt](resources/PieCharts.png)
+![alt](resources/Pie Charts.png)
 
 <!---img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig2.png" width="300" height="180" alt ="graphic: PyBer Welcome">
 <img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig3.png" width="300" height="180" alt ="graphic: PyBer Welcome">

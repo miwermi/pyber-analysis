@@ -14,19 +14,19 @@ This assignment also included showcasing the results by telling a compelling sto
 My final analysis should help stakeholders determine how to improve access and affordability for underserved areas.
 
 ## Initial Results:
+Intially data was separated into three new datasets, one for urban areas, one for suburban areas, and one for rural.  This initial separation revealed stark differences immediately and was especially obvious when charted in a scatter plot:
 ![alt](resources/Fig1.png)
 
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig2.png" width="250" height="150" alt ="graphic: PyBer Welcome">
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig3.png" width="250" height="150" alt ="graphic: PyBer Welcome">
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig4.png" width="250" height="150" alt ="graphic: PyBer Welcome">
 
- <--![alt](resources/Fig2.png)
-    ![alt](resources/Fig3.png)
-    ![alt](resources/Fig4.png)-->
+Box and whisker charting and pie options were also visualized:
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig2.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig3.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig4.png" width="300" height="180" alt ="graphic: PyBer Welcome">
 
-![alt](resources/Fig5.png)
-![alt](resources/Fig6.png)
-![alt](resources/Fig7.png)
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig5.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig6.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig7.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+
 
 ## Additional Analysis & Summary Data:
 ![alt](resources/Final summary.png)

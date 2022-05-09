@@ -15,9 +15,10 @@ My final analysis should help stakeholders determine how to improve access and a
 
 ## Initial Results:
 To target findings to address the main comparison goals, intially data was separated into three new datasets: one for urban areas, one for suburban areas, and one for rural.  This initial separation revealed stark differences immediately and was especially obvious when charted in a scatter plot:
+<br />
 ![alt](resources/Fig1.png)
 <br />
-Figure 1: Scatter plot illustrating type of fare, plotted with size relevance on an x-axis of , color-coded to city type.
+Figure 1: Scatter plot illustrating type of fare, plotted with size relevance on an x-axis of ride numbers and a y-axis of fare prices, color-coded to city type.
 
 
 Box and whisker charting and pie options were also visualized:

@@ -14,18 +14,23 @@ This assignment also included showcasing the results by telling a compelling sto
 My final analysis should help stakeholders determine how to improve access and affordability for underserved areas.
 
 ## Initial Results:
-Intially data was separated into three new datasets, one for urban areas, one for suburban areas, and one for rural.  This initial separation revealed stark differences immediately and was especially obvious when charted in a scatter plot:
+To target findings to address the main comparison goals, intially data was separated into three new datasets: one for urban areas, one for suburban areas, and one for rural.  This initial separation revealed stark differences immediately and was especially obvious when charted in a scatter plot:
 ![alt](resources/Fig1.png)
+Figure 1: Scatter plot illustrating type of fare, plotted with size relevance on an x-axis of , color-coded to city type.
 
 
 Box and whisker charting and pie options were also visualized:
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig2.png" width="300" height="180" alt ="graphic: PyBer Welcome">
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig3.png" width="300" height="180" alt ="graphic: PyBer Welcome">
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig4.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+![alt](resources/Box+Wiskers.png)
 
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig5.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+![alt](resources/Pie Charts.png)
+
+<!---img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig2.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig3.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig4.png" width="300" height="180" alt ="graphic: PyBer Welcome"--->
+
+<!---img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig5.png" width="300" height="180" alt ="graphic: PyBer Welcome">
 <img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig6.png" width="300" height="180" alt ="graphic: PyBer Welcome">
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig7.png" width="300" height="180" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig7.png" width="300" height="180" alt ="graphic: PyBer Welcome"--->
 
 
 ## Additional Analysis & Summary Data:

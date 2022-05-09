@@ -49,6 +49,12 @@ After the initial analysis was complete, additional requests were made for summa
 <br />
 Figure 8. Summary dataset with totals by city type.
 
+<div style="float: right;">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/FinalDataset.png" width="500" height="293" alt ="graphic: Ride data from January-April, 2019">
+Pictured: Ride data from January-April, 2019
+  </div>
+
+
 ![alt](resources/PyBer_fare_summary.png)
 <br />
 Figure 9. Line chart of fare prices for all city types between January through April, 2019.

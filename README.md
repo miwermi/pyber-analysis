@@ -18,13 +18,20 @@ To target findings to address the main comparison goals, intially data was separ
 <br />
 ![alt](resources/Fig1.png)
 <br />
-Figure 1: Scatter plot illustrating type of fare, plotted with size relevance on an x-axis of ride numbers and a y-axis of fare prices, color-coded to city type.
+Figure 1: Scatter plot illustrating type of fare, plotted with size relevant to ride numbers and a y-axis location representing fare price, color-coded to city type.
 
 
-Box and whisker charting and pie options were also visualized:
+Box and whisker charting and pie options were also visualized. Figures 2, 3, 4, directly below, show Ride Count ranges by city type, Driver Count ranges by city type, and Fare ranges by city type:
+
 ![alt](resources/Box+Wiskers.png)
+Figures 2, 3, 4.
 
 ![alt](resources/PieCharts.png)
+Figures 5, 6, 7.
+
+Pie chart figures 5, 6, and 7 directly above, show percentages of: Total Rides by city type, Total Drivers by city type and Total Fares by city type.
+
+In all of the data analyzed, it is clear that rural users are paying far highter fare rates than urban users - but that urban users are so much higher in number and in frequence of use, that the majority of the fares are coming from urban users.
 
 <!---img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig2.png" width="300" height="180" alt ="graphic: PyBer Welcome">
 <img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig3.png" width="300" height="180" alt ="graphic: PyBer Welcome">
@@ -36,6 +43,8 @@ Box and whisker charting and pie options were also visualized:
 
 
 ## Additional Analysis & Summary Data:
+After the initial analysis was complete, additional requests were made for summary data of the total rides, drivers, sum of fares, and average fare per city and driver.  Figure 8 below has these results:
+
 ![alt](resources/FinalSummary.png)
 ![alt](resources/PyBer_fare_summary.png)
 

@@ -16,9 +16,13 @@ My final analysis should help stakeholders determine how to improve access and a
 ## Initial Results:
 ![alt](resources/Fig1.png)
 
-![alt](resources/Fig2.png)
-![alt](resources/Fig3.png)
-![alt](resources/Fig4.png)
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig2.png" width="250" height="150" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig3.png" width="250" height="150" alt ="graphic: PyBer Welcome">
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/Fig4.png" width="250" height="150" alt ="graphic: PyBer Welcome">
+
+ <--![alt](resources/Fig2.png)
+    ![alt](resources/Fig3.png)
+    ![alt](resources/Fig4.png)-->
 
 ![alt](resources/Fig5.png)
 ![alt](resources/Fig6.png)

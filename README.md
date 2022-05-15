@@ -1,5 +1,5 @@
                                                                                            Michelle Werner (5/8/2022)
-# Pyber Ridesharing Data Analysis
+# Pyber Ride Share Analysis
 ---
 
 <!--![alt](resources/___.png)-->

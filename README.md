@@ -1,10 +1,10 @@
-                                                                                           Michelle Werner (5/8/2022)
+<!--                                                                                           Michelle Werner (5/8/2022)-->
 # Pyber Ride Share Analysis
 ---
 
-<!--![alt](resources/___.png)-->
+<!--![alt](resources/___.png)-- >
 <img src="https://github.com/miwermi/pyber-analysis/blob/main/resources/PyBer_Welcome.png" width="500" height="293" alt ="graphic: PyBer Welcome">
-Pictured: Welcome to PyBer
+Pictured: Welcome to PyBer-->
 
 # Analysis Overview:
 As the a new data analyst at PyBer, a ridesharing app company, my first assignment was to do an exploratory analysis of PyBer's driving data, and specifically to isolate different types of cities (urban, suburban, and rural) and investigate differences in number of rides, number of drivers, average fare price, etc. 
